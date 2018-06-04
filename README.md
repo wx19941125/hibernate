@@ -8,7 +8,7 @@ hibernate，数据库持久层框架，ORM框架
 
 ### 搭建hibernate环境
 
-导包;hibernate.cfg.xml;bean.hnm.xml;测试；
+导包→hibernate.cfg.xml→bean.hnm.xml→测试；
 
 ### hibernated单表CURD
 Syntax highlighted code block
