@@ -4,9 +4,7 @@ hibernate，数据库持久层框架，ORM框架
 
 1 对JDBC轻量级封装。 2 以面向对象的思维操作数据库。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 搭建hibernate环境
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
