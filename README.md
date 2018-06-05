@@ -1,6 +1,6 @@
 ## Welcome to hibernate
 
- hibernate，数据库持久层框架，ORM框架
+ hibernate，数据库持久层框架，ORM框架。
 
 1 对JDBC轻量级封装，全自动化ORM框架。 2 以面向对象的思维操作数据库。
 
