@@ -1,4 +1,4 @@
-## Welcome to hibernate
+## Welcome to hibernate  ![](https://github.com/wx19941125/hibernate/raw/master/Logo/1.jpg) 
 
  hibernate，数据库持久层框架，ORM框架。
 
