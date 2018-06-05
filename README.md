@@ -11,29 +11,17 @@
 导包→hibernate.cfg.xml→bean.hnm.xml→测试；
 
 ### hibernated单表CURD
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+session获取;hibernate三种状态;
 
-- Bulleted
-- List
+### hibernate多表CURD
 
-1. Numbered
-2. List
+对象关系映射;CURD(级联操作-HQL);
 
-**Bold** and _Italic_ and `Code` text
+### hibernate事务处理
 
-[Link](url) and ![Image](src)
-```
+乐观锁、悲观锁;
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### hibernate缓存机制
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wx19941125/hibernate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+一级缓存;二级缓存;三级缓存;
